@@ -32,5 +32,5 @@ def bfs(node, graph, visited, dNode):
             queue.append(neighbor)
 
 
-print("this is Breadth-First Search (BFS)")
+print("this is Breadth-First Search (BFS) for question 1a ")
 bfs("A", graph, visited, "E")

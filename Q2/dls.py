@@ -70,6 +70,9 @@ def dls(row, col, limit):
 
 
 
+print("this is Depth-Limited Search for question 2")
+
+
 print("dls algorithm with limit 4")
 dls(6,0,4)
 

@@ -60,4 +60,8 @@ def dfs(row, col):
 
     return False        # nothing found
 
+
+print("this is Depth-First Search (DFS) for questiton 1d")
+
+
 dfs(6,0)

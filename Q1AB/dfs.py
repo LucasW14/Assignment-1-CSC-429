@@ -34,7 +34,7 @@ def dfs(node, graph, visited, dNode):
         for neighbor in reversed(graph[newNode]):
             stack.append(neighbor)
 
-print("this is Depth-First Search (DFS)")
+print("this is Depth-First Search (DFS)for question 1b")
 dfs("A", graph, visited,"E")
 
 

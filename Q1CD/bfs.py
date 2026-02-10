@@ -65,4 +65,7 @@ def bfs(row, col):
 
     return False        # nothing found
 
+print("this is Breadth-First Search (BFS) for questiton 1c")
+
+
 bfs(6,0)
